@@ -130,17 +130,17 @@ I develop Web Application, Websites and Mobile Apps.
 📫 How to reach me > Via Linkedln, Email, Slack
 
 😄 Pronouns <br>
-             co/code/cos/codes/codeself.
+             `co/code/cos/codes/codeself.`
             <br>
-            scri/script/scris/scripts/scriptself.
+            `scri/script/scris/scripts/scriptself.`
             <br>
-            ob/object/obs/objects/objectself.
+            `ob/object/obs/objects/objectself.`
             <br>
-            ob/objective/objects/objects/objectiveself.
+            `ob/objective/objects/objects/objectiveself.`
             <br>
-            var/var/vars/vars/varself.
+            `var/var/vars/vars/varself.`
             <br>
-            in/int/ints/ints/intself.
+            `in/int/ints/ints/intself.`
 
 
 ⚡️ Fun fact <br>
