@@ -144,7 +144,7 @@ I develop Web Application, Websites and Mobile Apps.
 
 
 ⚡️ Fun fact <br>
-          > There are around 700 separate programming languages.
+          #There are around 700 separate programming languages.
           <br>
            >Coding will soon be as important as reading.
            <br> 
