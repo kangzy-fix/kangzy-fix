@@ -117,21 +117,25 @@ I develop Web Application, Websites and Mobile Apps.
 
 
 ## Other Common Github Profile Sections
-👩‍💻 I'm currently working on...
+👩‍💻 I'm currently working from home
 
-🧠 I'm currently learning...
+🧠 I'm currently learning Ruby
 
-👯‍♀️ I'm looking to collaborate on...
+👯‍♀️ I'm looking to collaborate on projects
 
-🤔 I'm looking for help with...
+🤔 I'm looking for help with my 
 
-💬 Ask me about...
+💬 Ask me about coding
 
-📫 How to reach me...
+📫 How to reach me > Via Linkedln[Ian_Kangcha], Email[kangzyfix@gmail.com], Slack[Ian_Kangacha]
 
 😄 Pronouns...
 
-⚡️ Fun fact...
+⚡️ Fun fact > There are around 700 separate programming languages.
+           >Coding will soon be as important as reading.
+           >The first programmer was the daughter of a mad poet.
+           >The first computer virus was a Creeper.
+           >Computer was a job title, and the first programmers were women.
 
 
 ## 🛠 Skills
