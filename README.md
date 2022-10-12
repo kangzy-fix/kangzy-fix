@@ -192,7 +192,7 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 Here are some related projects
 
-<a href="https://fix-motis-project.herokuapp.com/" target="_blank">Fix Moti Finder</a>
+<a href="https://fix-motis-project.herokuapp.com/" target="_self">Fix Moti Finder</a>
 
 
 ## Roadmap
