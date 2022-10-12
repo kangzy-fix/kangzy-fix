@@ -127,19 +127,28 @@ I develop Web Application, Websites and Mobile Apps.
 
 💬 Ask me about coding
 
-📫 How to reach me > Via Linkedln[Ian_Kangcha], Email[kangzyfix@gmail.com], Slack[Ian_Kangacha]
+📫 How to reach me > Via Linkedln, Email, Slack
 
-😄 Pronouns...
+😄 Pronouns
+             co/code/cos/codes/codeself.
 
-⚡️ Fun fact 
+            scri/script/scris/scripts/scriptself.
+
+            ob/object/obs/objects/objectself.
+            ob/objective/objects/objects/objectiveself.
+            var/var/vars/vars/varself.
+            in/int/ints/ints/intself.
+
+
+⚡️ Fun fact <br>
           > There are around 700 separate programming languages.
           <br>
            >Coding will soon be as important as reading.
            <br> 
            >The first programmer was the daughter of a mad poet.
-
+           <br>
            >The first computer virus was a Creeper.
-
+            <br>
            >Computer was a job title, and the first programmers were women.
 
 
