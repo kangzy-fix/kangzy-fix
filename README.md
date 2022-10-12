@@ -3,6 +3,66 @@
 
 A brief description of what this project does and who it's for
 
+## 🚀 About Me
+I'm a full stack developer 
+ 
+Front-End & Back-End Developer!
+
+I develop Web Application, Websites and Mobile Apps.
+
+
+# Hi, I'm Ian Kangacha! 👋
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-kangacha-56101b245/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kangzy_fix)
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working from home
+
+🧠 I'm currently learning Ruby
+
+👯‍♀️ I'm looking to collaborate on projects
+
+🤔 I'm looking for help with my new programming language.
+
+💬 Ask me about coding
+
+📫 How to reach me > Via Linkedln, Email, Slack
+
+😄 Pronouns <br>
+             `co/code/cos/codes/codeself.`
+            <br>
+            `scri/script/scris/scripts/scriptself.`
+            <br>
+            `ob/object/obs/objects/objectself.`
+            <br>
+            `ob/objective/objects/objects/objectiveself.`
+            <br>
+            `var/var/vars/vars/varself.`
+            <br>
+            `in/int/ints/ints/intself.`
+
+
+⚡️ Fun fact <br>
+          `There are around 700 separate programming languages.`
+          <br>
+           `Coding will soon be as important as reading`
+           <br> 
+           `The first programmer was the daughter of a mad poet.`
+           <br>
+           `The first computer virus was a Creeper.`
+            <br>
+           `Computer was a job title, and the first programmers were women.`
+
+
+## 🛠 Skills
+HTML, CSS, Javascript, React.JS, Ruby, Ruby on Rails
+
+
 
 ## Acknowledgements
 
@@ -99,64 +159,6 @@ I basically knew how to code when i was in high school but i sharpen my skills w
 If you have any feedback, please reach out to us at ianfixent@gmail.com
 
 
-## 🚀 About Me
-I'm a full stack developer 
- 
-Front-End & Back-End Developer!
-
-I develop Web Application, Websites and Mobile Apps.
-
-
-# Hi, I'm Ian Kangacha! 👋
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-kangacha-56101b245/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kangzy_fix)
-
-
-## Other Common Github Profile Sections
-👩‍💻 I'm currently working from home
-
-🧠 I'm currently learning Ruby
-
-👯‍♀️ I'm looking to collaborate on projects
-
-🤔 I'm looking for help with my new programming language.
-
-💬 Ask me about coding
-
-📫 How to reach me > Via Linkedln, Email, Slack
-
-😄 Pronouns <br>
-             `co/code/cos/codes/codeself.`
-            <br>
-            `scri/script/scris/scripts/scriptself.`
-            <br>
-            `ob/object/obs/objects/objectself.`
-            <br>
-            `ob/objective/objects/objects/objectiveself.`
-            <br>
-            `var/var/vars/vars/varself.`
-            <br>
-            `in/int/ints/ints/intself.`
-
-
-⚡️ Fun fact <br>
-          `There are around 700 separate programming languages.`
-          <br>
-           `Coding will soon be as important as reading`
-           <br> 
-           `The first programmer was the daughter of a mad poet.`
-           <br>
-           `The first computer virus was a Creeper.`
-            <br>
-           `Computer was a job title, and the first programmers were women.`
-
-
-## 🛠 Skills
-HTML, CSS, Javascript, React.JS, Ruby, Ruby on Rails
 
 
 ## Installation
