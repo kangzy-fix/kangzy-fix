@@ -6,9 +6,8 @@ A brief description of what this project does and who it's for
 
 ## Acknowledgements
 
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [Moringa School](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwiqlrW0qdv6AhXa53cKHUm9AUIYABAAGgJlZg&ohost=www.google.com&cid=CAASJeRoTjTXLp7aGLbU-cgsSX9_5iuHSxC-5MRIDo8CEcZUqi83Nlc&sig=AOD64_3__SR_vCbH_8_iivN8VFr8lNqDow&q&adurl&ved=2ahUKEwiKmq60qdv6AhVKLewKHQ6yAyQQ0Qx6BAgJEAE)
+ - [Ian Wambugu Kangacha](https://github.com/kangzy-fix)
 
 
 ## API Reference
