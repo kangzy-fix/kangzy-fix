@@ -131,14 +131,15 @@ I develop Web Application, Websites and Mobile Apps.
 
 😄 Pronouns...
 
-⚡️ Fun fact > There are around 700 separate programming languages.
-
+⚡️ Fun fact 
+          > There are around 700 separate programming languages.
+          <br>
            >Coding will soon be as important as reading.
-
+           <br> 
            >The first programmer was the daughter of a mad poet.
 
            >The first computer virus was a Creeper.
-           
+
            >Computer was a job title, and the first programmers were women.
 
 
