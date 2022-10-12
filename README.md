@@ -144,15 +144,15 @@ I develop Web Application, Websites and Mobile Apps.
 
 
 ⚡️ Fun fact <br>
-          #There are around 700 separate programming languages.
+          `There are around 700 separate programming languages.`
           <br>
-           >Coding will soon be as important as reading.
+           `Coding will soon be as important as reading`
            <br> 
-           >The first programmer was the daughter of a mad poet.
+           `The first programmer was the daughter of a mad poet.`
            <br>
-           >The first computer virus was a Creeper.
+           `The first computer virus was a Creeper.`
             <br>
-           >Computer was a job title, and the first programmers were women.
+           `Computer was a job title, and the first programmers were women.`
 
 
 ## 🛠 Skills
