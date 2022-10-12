@@ -129,14 +129,17 @@ I develop Web Application, Websites and Mobile Apps.
 
 📫 How to reach me > Via Linkedln, Email, Slack
 
-😄 Pronouns
+😄 Pronouns <br>
              co/code/cos/codes/codeself.
-
+            <br>
             scri/script/scris/scripts/scriptself.
-
+            <br>
             ob/object/obs/objects/objectself.
+            <br>
             ob/objective/objects/objects/objectiveself.
+            <br>
             var/var/vars/vars/varself.
+            <br>
             in/int/ints/ints/intself.
 
 
