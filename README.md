@@ -234,7 +234,7 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](Screenshot from 2022-10-12 20-06-44.png)
+![App Screenshot](/img/Screenshot%20from%202022-10-12%2020-06-44.png)
 
 
 ## Support
