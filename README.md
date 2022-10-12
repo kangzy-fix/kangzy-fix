@@ -77,8 +77,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-[https://watch.screencastify.com/v/HO5xHOLlbxkk2ueLpSnr]
-
+[!AppDemo](https://www.canva.com/design/DAFO2WKv7ng/watch)
 
 ## Deployment
 
