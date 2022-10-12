@@ -139,11 +139,11 @@ To run this project, you will need to add the following environment variables to
 
 #### Are you a normal person or a computer?
 
-Lol! Im 100% human
+`Lol! Im 100% human`
 
 #### Where did you learn how to code?
 
-I basically knew how to code when i was in high school but i sharpen my skills when i joined Moringa School and later Udemy and so on
+`I basically knew how to code when i was in high school but i sharpen my skills when i joined Moringa School and later Udemy and so on`
 
 
 ## Features
@@ -192,7 +192,7 @@ What optimizations did you make in your code? E.g. refactors, performance improv
 
 Here are some related projects
 
-[Awesome README](https://github.com/matiassingers/awesome-readme)
+[Fix Moti Finder](https://fix-motis-project.herokuapp.com/)
 
 
 ## Roadmap
