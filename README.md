@@ -124,20 +124,22 @@ Answer 2
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
+If you have any feedback, please reach out to us at ianfixent@gmail.com
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer
+
+I develop Web Application, Websites and Mobile Apps.
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Ian Kangacha! 👋
 
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-kangacha-56101b245/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kangzy_fix)
 
 
 ## Other Common Github Profile Sections
