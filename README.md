@@ -123,7 +123,7 @@ I develop Web Application, Websites and Mobile Apps.
 
 👯‍♀️ I'm looking to collaborate on projects
 
-🤔 I'm looking for help with my 
+🤔 I'm looking for help with my new programming language.
 
 💬 Ask me about coding
 
