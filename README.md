@@ -77,7 +77,7 @@ Please adhere to this project's `code of conduct`.
 
 ## Demo
 
-Insert gif or link to demo
+[https://watch.screencastify.com/v/HO5xHOLlbxkk2ueLpSnr]
 
 
 ## Deployment
