@@ -239,7 +239,7 @@ Start the server
 
 ## Support
 
-For support, email fake@fake.com or join our Slack channel.
+For support, email kangzyfix@gmail.com or join our Slack channel.
 
 
 ## Tech Stack
