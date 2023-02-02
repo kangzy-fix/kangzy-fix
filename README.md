@@ -130,38 +130,16 @@ Please adhere to this project's `code of conduct`.
 `I basically knew how to code when i was in high school but i sharpen my skills when i joined Moringa School and later Udemy and so on`
 
 
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
-
-
 ## Feedback
 
 If you have any feedback, please reach out to us at ianfixent@gmail.com
-
-
-## Optimizations
-
-What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
-
 
 ## Related
 
 Here are some related projects
 
-<a href="https://fix-motis-project.herokuapp.com/" target="_self">Fix Moti Finder</a>
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
-
-
+<a href="https://fix-motis-project.herokuapp.com/" target="_self">Fix Moti's Finder</a>
+Here is a screenshot of one of my many projects
 
 ## Screenshots
 
