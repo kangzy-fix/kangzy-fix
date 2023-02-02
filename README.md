@@ -143,30 +143,6 @@ Please adhere to this project's `code of conduct`.
 If you have any feedback, please reach out to us at ianfixent@gmail.com
 
 
-
-
-## Installation
-
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
-    
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
 ## Optimizations
 
 What optimizations did you make in your code? E.g. refactors, performance improvements, accessibility
@@ -185,32 +161,6 @@ Here are some related projects
 
 - Add more integrations
 
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/kangzy-fix/phase-2-project
-```
-
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Screenshots
