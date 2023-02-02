@@ -10,10 +10,9 @@ Front-End & Back-End Developer!
 
 I develop Web Application, Websites and Mobile Apps.
 
-Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+Just graduated from Moringa, ready to start my first internship experience!
+A partner of Moringa, ready to start working with iTalanta open-source!
 
-<br/>
 
 
 # Hi, I'm Ian Kangacha! 👋
