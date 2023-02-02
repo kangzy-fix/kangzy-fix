@@ -139,6 +139,7 @@ If you have any feedback, please reach out to us at ianfixent@gmail.com
 Here are some related projects
 
 <a href="https://fix-motis-project.herokuapp.com/" target="_self">Fix Moti's Finder</a>
+<br>
 Here is a screenshot of one of my many projects
 
 ## Screenshots
