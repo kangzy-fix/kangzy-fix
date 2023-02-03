@@ -168,8 +168,6 @@ This project is used by the following companies:
 
 - Fix LImited Company  
 - Mik Kady Photograph
-<h2 align="left">My GitHub Overview</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&locale=en" alt="jeffoty" /></p>
 
 
 ## Copyright
