@@ -18,10 +18,12 @@ A partner of Moringa, ready to start working with iTalanta open-source!
 # Hi, I'm Ian Kangacha! 👋
 
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-kangacha-56101b245/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kangzy_fix)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kangzy_fix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ian kangacha" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ian-kangacha-56101b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ian kangacha" height="30" width="40" /></a>
+<a href="https://www.instagram.com/its_kangzy_fix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessedallan1" height="30" width="40" /></a>
+</p>
 
 
 ## Other Common Github Profile Sections
@@ -98,8 +100,12 @@ A partner of Moringa, ready to start working with iTalanta open-source!
 ```
 
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
-<h1 align="center">Hi 👋, I'm Allan Ngugi</h1>
-<h3 align="center">A passionate fullstack developer from Kenya.</h3>
+<h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
+<h6 align="center">I'm a full stack developer
+
+Front-End & Back-End Developer!
+
+I develop Web Application, Websites and Mobile Apps.</h6>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
@@ -108,12 +114,7 @@ A partner of Moringa, ready to start working with iTalanta open-source!
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/kangzy_fix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ian kangacha" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ian-kangacha-56101b245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ian kangacha" height="30" width="40" /></a>
-<a href="https://www.instagram.com/its_kangzy_fix/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blessedallan1" height="30" width="40" /></a>
-</p>
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="allan-ngugi" /></p>
