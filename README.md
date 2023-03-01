@@ -1,22 +1,15 @@
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
+<h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
+<h3 align="center">I'm a full stack developer
 
-# Welcome to my Github Profile
-
-A brief description of what this project does and who it's for
-
-## 🚀 About Me
-I'm a full stack developer 
- 
 Front-End & Back-End Developer!
 
-I develop Web Application, Websites and Mobile Apps.
+I develop Web Application, Websites and Mobile Apps.</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
-Just graduated from Moringa, ready to start my first internship experience!
-A partner of Moringa, ready to start working with iTalanta open-source!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
 
-
-
-# Hi, I'm Ian Kangacha! 👋
-
+<p align="left"> <a href="https://twitter.com/kangzy_fix" target="blank"><img src="https://img.shields.io/twitter/follow/@kangzy_fix?logo=twitter&style=for-the-badge" alt="Ian" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
