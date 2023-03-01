@@ -87,26 +87,14 @@ I develop Web Application, Websites and Mobile Apps.</h2>
   © By Ian Wambugu Kangacha
 ```
 
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
-<h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
-<h6 align="center">I'm a full stack developer
-
-Front-End & Back-End Developer!
-
-I develop Web Application, Websites and Mobile Apps.</h6>
-<img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
-
-<p align="left"> <a href="https://twitter.com/kangzy_fix" target="blank"><img src="https://img.shields.io/twitter/follow/kangzy_fix?logo=twitter&style=for-the-badge" alt="Ian" /></a> </p>
 
 
 
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="allan-ngugi" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="Ian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&locale=en" alt="allan-ngugi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&locale=en" alt="Ian" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="allan-ngugi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="Ian" /></p>
