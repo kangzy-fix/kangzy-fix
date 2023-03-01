@@ -3,15 +3,8 @@
 <!-- [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h2 align="center">  -->
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](kangzyfix)
-
- 
- I'm a full stack developer
-
-Front-End & Back-End Developer!</h2>
-<h2>
- 
-
-I develop Web Application, Websites and Mobile Apps.</h2>
+ I'm a full stack developer Front-End & Back-End Developer!</h2>
+<p> I develop Web Application, Websites and Mobile Apps.</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
