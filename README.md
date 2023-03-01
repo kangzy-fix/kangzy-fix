@@ -1,10 +1,10 @@
 [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
-<h3 align="center">I'm a full stack developer
+<h2 align="center">I'm a full stack developer
 
 Front-End & Back-End Developer!
 
-I develop Web Application, Websites and Mobile Apps.</h3>
+I develop Web Application, Websites and Mobile Apps.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=allan-ngugi&label=Profile%20views&color=0e75b6&style=flat" alt="allan-ngugi" /> </p>
@@ -19,12 +19,7 @@ I develop Web Application, Websites and Mobile Apps.</h3>
 </p>
 
 
-## Other Common Github Profile Sections
 👩‍💻 I'm currently working from home
-
-👯‍♀️ I'm looking to collaborate on projects
-
-🤔 I'm looking for help with my new programming language.
 
 💬 Ask me about coding
 
