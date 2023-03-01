@@ -1,8 +1,11 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
+
+[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
 <h2 align="center">I'm a full stack developer
 
-Front-End & Back-End Developer!
+Front-End & Back-End Developer!</h2>
+<h2>
+ 
 
 I develop Web Application, Websites and Mobile Apps.</h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
@@ -77,8 +80,6 @@ I develop Web Application, Websites and Mobile Apps.</h2>
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="kangzy-fix" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&locale=en" alt="kangzy-fix" /></p>
 
 
 ## Copyright
