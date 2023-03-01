@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ian Kangacha</h1>
 
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
-<h2 align="center">I'm a full stack developer
+<!-- [![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)](https://allanngugi.io)
+<h2 align="center"> -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+ 
+ I'm a full stack developer
 
 Front-End & Back-End Developer!</h2>
 <h2>
