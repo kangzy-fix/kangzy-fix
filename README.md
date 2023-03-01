@@ -37,18 +37,6 @@ A partner of Moringa, ready to start working with iTalanta open-source!
 
 📫 How to reach me > Via Linkedln, Email, Slack
 
-😄 Pronouns <br>
-             `co/code/cos/codes/codeself.`
-            <br>
-            `scri/script/scris/scripts/scriptself.`
-            <br>
-            `ob/object/obs/objects/objectself.`
-            <br>
-            `ob/objective/objects/objects/objectiveself.`
-            <br>
-            `var/var/vars/vars/varself.`
-            <br>
-            `in/int/ints/ints/intself.`
 
 
 ⚡️ Fun fact <br>
@@ -111,28 +99,6 @@ A partner of Moringa, ready to start working with iTalanta open-source!
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-Please adhere to this project's `code of conduct`.
-
-## FAQ
-
-#### Are you a normal person or a computer?
-
-`Lol! Im 100% human`
-
-#### Where did you learn how to code?
-
-`I basically knew how to code when i was in high school but i sharpen my skills when i joined Moringa School and later Udemy and so on`
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at ianfixent@gmail.com
 
 ## Related
 
@@ -159,7 +125,7 @@ For support, email kangzyfix@gmail.com or join our Slack channel.
 **Server:** Node, Express
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="kangzy-fix" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&locale=en" alt="kangzy-fix" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="kangzy-fix" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="kangzy-fi" /></p>
 
 
 ## Used By
@@ -167,7 +133,7 @@ For support, email kangzyfix@gmail.com or join our Slack channel.
 This project is used by the following companies:
 
 - Fix LImited Company  
-- Mik Kady Photograph
+- Mik Kady Photography
 
 
 ## Copyright
