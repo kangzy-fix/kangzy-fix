@@ -85,8 +85,7 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kangzy-fix&theme=dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=kangzy-fix&theme=neon&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 ## Copyright
 
