@@ -82,6 +82,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true)
+
+
 
 <p><img align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="Ian" /></p>
 
