@@ -78,8 +78,8 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
-<div style="display: flex;">
-  <div style="flex-basis: 50%;">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 50%; margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="400" />
   </div>
   <div style="flex-basis: 50%;">
@@ -87,8 +87,8 @@
   </div>
 </div>
 
-<div style="display: flex;">
-  <div style="flex-basis: 50%;">
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex-basis: 50%; margin-right: 20px;">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400" />
   </div>
   <div style="flex-basis: 50%;">
@@ -97,6 +97,7 @@
     </a>
   </div>
 </div>
+
 
 
 
