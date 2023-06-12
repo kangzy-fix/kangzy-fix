@@ -83,8 +83,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact)
 
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&" alt="Ian" /></p>
-
 <p><img align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="Ian" /></p>
 
 
