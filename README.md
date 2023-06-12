@@ -78,13 +78,65 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
+<style>
+/* GitHub stats card */
+.svg-icon {
+  fill: #586069;
+}
+
+.stat {
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.stat strong {
+  display: block;
+}
+
+/* Top languages card */
+.language {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.language span {
+  display: block;
+}
+
+/* Jokes card */
+.joke {
+  font-family: 'Courier New', monospace;
+  font-size: 14px;
+  color: #586069;
+}
+
+/* GitHub streak card */
+.streak-stats .streak-stats-box {
+  background-color: #000;
+  color: #fff;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.streak-stats .streak-stats-box a {
+  color: #fff;
+}
+
+.streak-stats .streak-stats-box:hover {
+  background-color: #444;
+}
+</style>
+
+<!-- Add your GitHub stats card -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&theme=transparent)
 
+<!-- Add your top languages card -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact)
 
+<!-- Add your jokes card -->
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
+<!-- Add your GitHub streak card -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=kangzy-fix&theme=neon&hide_border=true&border_radius=5&mode=weekly)](https://git.io/streak-stats)
 
 ## Copyright
