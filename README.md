@@ -82,7 +82,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true)
+![Profile View Counter](https://komarev.com/ghpvc/?kangzy-fix=Tanu-N-Prabhu)
 
 
 
