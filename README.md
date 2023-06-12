@@ -82,7 +82,7 @@
   <div style="flex-basis: 45%;">
     <img src="https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&theme=transparent" alt="Anurag's GitHub stats" width="400" />
   </div>
-  <div style="flex-basis: 45%;">
+  <div style="flex-basis: 45%; margin-left: auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact" alt="Top Langs" width="400" />
   </div>
 </div>
@@ -91,12 +91,13 @@
   <div style="flex-basis: 45%;">
     <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="400" />
   </div>
-  <div style="flex-basis: 45%;">
+  <div style="flex-basis: 45%; margin-left: auto;">
     <a href="https://git.io/streak-stats">
       <img src="https://streak-stats.demolab.com?user=kangzy-fix&theme=neon&hide_border=true&border_radius=5&mode=weekly" alt="GitHub Streak" width="400" />
     </a>
   </div>
 </div>
+
 
 
 
