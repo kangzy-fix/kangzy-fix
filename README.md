@@ -78,7 +78,7 @@
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?kangzy-fix= &theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangzy-fix&show_icons=true&theme=transparent)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kangzy-fix&show_icons=true&locale=en&layout=compact" alt="Ian" /></p>
 
