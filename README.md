@@ -84,12 +84,8 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
-
-
-<p><img align-items="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangzy-fix&" alt="Ian" /></p>
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kangzy-fix&theme=dark)](https://git.io/streak-stats)
 
 
 ## Copyright
