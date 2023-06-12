@@ -82,7 +82,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangzy-fix&layout=compact)
 
-![Profile View Counter](https://komarev.com/ghpvc/?kangzy-fix=Tanu-N-Prabhu)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Tanu-N-Prabhu/Python)
 
 
 
