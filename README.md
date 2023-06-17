@@ -24,17 +24,17 @@
 
 💬 Ask me about coding
 
- 🔭 I’m currently working on **Computer Society of Kenya**
+ 🔭 I’m currently doing **Freelance**
 
  ** Ready for Employment**
 
  🌱 I’m currently learning **TypeScript,Kotlin,Java**
 
-👯 I’m looking to collaborate on **Fullstack web development & Mobile Development**
+👯 I’m looking to collaborate on **Fullstack web development, Mobile Development & a Ethical Hacker.**
 
- 💬 Ask me about **Vanilla Javascript,React,Angular, Flutter, Ruby on Rails,SQL,HTML,CSS**
+ 💬 Ask me about **Vanilla Javascript,React,Angular, Flutter,Python, Ruby on Rails,SQL,HTML,CSS**
 
-📫 How to reach me **kangzyfix@gmail.com**
+📫 How to reach me **kangzyfix@gmail.com or iankangacha@gmail.com**
 
 
 
