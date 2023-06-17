@@ -30,7 +30,7 @@
 
  🌱 I’m currently learning **TypeScript,Kotlin,Java**
 
-👯 I’m looking to collaborate on **Fullstack web development, Mobile Development & a Ethical Hacker.**
+👯 I’m good at **Fullstack web development, Mobile Development & Ethical Hacking.**
 
  💬 Ask me about **Vanilla Javascript,React,Angular, Flutter,Python, Ruby on Rails,SQL,HTML,CSS**
 
